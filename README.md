@@ -1,4 +1,4 @@
-# 🔴 Pokédex Interativa
+# 🔴 Pokédex
 
 É o meu primeiro projeto web, desenvolvido a partir de um tutorial do YouTube. O objetivo é criar uma interface interativa de Pokémons, exibindo informações como nome, número, tipo e descrição de cada personagem, apresentando uma interface interativa e utilizando conceitos e tecnologias básicas para o desenvolvimento web.
 
